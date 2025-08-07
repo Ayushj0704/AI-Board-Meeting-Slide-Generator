@@ -20,7 +20,7 @@ Automatically turn financial reports (PDF, Excel, CSV) into **executive-ready sl
 
 
 
-[upload](unamed.png) 
+[upload](unnamed.png) 
 
 ---
 
