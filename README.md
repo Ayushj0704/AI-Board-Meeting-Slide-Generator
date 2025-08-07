@@ -1,16 +1,9 @@
 # 📊 AI Board Meeting Slide Generator
 
-Automatically turn financial reports (PDF, Excel, CSV) into **executive-ready slides** powered by AI. Get GPT-generated summaries, visualized metrics, and downloadable presentations — all in one platform.
-
-> ⚡ Built in 3 hours during the AI Hiring Show.
+Automatically turn financial reports (PDF, Excel, CSV) into **executive-ready slides** powered by AI. Get AI-generated summaries, visualized metrics, and downloadable presentations — all in one platform.
 
 ---
 
-## 🚀 Live Demo
-
-Coming Soon...
-
----
 
 ## 🎯 Features
 
@@ -29,7 +22,7 @@ Coming Soon...
 
 | Upload Page | Dashboard | Slide Viewer |
 |-------------|-----------|---------------|
-| ![upload](./screenshots/upload.png) | ![dashboard](./screenshots/dashboard.png) | ![slides](./screenshots/slides.png) |
+| ![upload](./screenshots/upload.png)  |
 
 ---
 
@@ -37,25 +30,11 @@ Coming Soon...
 
 | Layer     | Tools Used                                |
 |-----------|--------------------------------------------|
-| Frontend  | React.js, Tailwind CSS, Reveal.js, Chart.js |
+| Frontend  | HTML, CSS, Bootstrap |
 | Backend   | FastAPI, Pandas, PyPDF2, OpenAI GPT         |
-| AI Engine | OpenAI GPT-4 API                           |
+| AI Engine | Gemini API                           |
 | Charts    | Chart.js                                   |
 | File Parsing | `openpyxl`, `pandas`, `PyPDF2`         |
 
 ---
 
-## 📁 Folder Structure (Frontend)
-
-```bash
-src/
-├── components/
-│   ├── UploadForm.jsx
-│   ├── Dashboard.jsx
-│   ├── SlideViewer.jsx
-│   ├── SummarySection.jsx
-│   └── Charts.jsx
-├── services/
-│   └── api.js
-├── App.jsx
-├── index.js
