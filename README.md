@@ -18,11 +18,9 @@ Automatically turn financial reports (PDF, Excel, CSV) into **executive-ready sl
 
 ## 🖥️ Screenshots
 
-> _Add screenshots after the build to show the UI!_
 
-Upload Page 
 
-| ![upload](unamed.png)  |
+[upload](unamed.png) 
 
 ---
 
